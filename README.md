@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **AndreChristianto/AndreChristianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 🥑 About Me
+Hi, I’m Andreas — a Computer Science grad passionate about data science, machine learning, and applied AI. I enjoy turning messy datasets into insights, building ML models, and experimenting with computer vision and recommendation systems.

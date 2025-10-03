@@ -27,9 +27,9 @@ Hi, I’m Andreas — a Computer Science grad passionate about data science, mac
 - Building projects that mix research + practicality
 
 # 🥥 Connect
-- LinkedIn: [Andreas Christianto](www.linkedin.com/in/andreas-christianto-648569209)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/madushadhanushka?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/AndreChristianto?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 <a href="https://www.linkedin.com/in/andreas-christianto-648569209/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/andre_chrr?igsh=amR6c3FjNzFmdXY2" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+# 🍏 GitHub Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreChristianto&theme=tokyonight" alt="mystreak"/>

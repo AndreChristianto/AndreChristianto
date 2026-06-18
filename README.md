@@ -1,6 +1,6 @@
 ![Header](./github-header-banner.png)
 # 🥑 About Me
-Hi, I’m Andreas — a Computer Science grad passionate about data science, machine learning, and applied AI. I enjoy turning messy datasets into insights, building ML models, and experimenting with computer vision and recommendation systems.
+Hi, I’m Andreas, a Computer Science grad passionate about data science, machine learning, and applied AI. I enjoy turning messy datasets into insights, building ML models, and experimenting with computer vision and recommendation systems.
 
 # 🍎 What I'm working on
 - Exploring AI applications in biometrics and recommendation systems
